@@ -1,6 +1,13 @@
 ## About ##
-This game is about capturing the feeling of righteous destruction.
-And the judicious and cleaver use of abilities.
+Azrael is my take at a modernized twin stick genre.
+In a sentence it as a twin-stick, ability based, rpg shooter.
+It has an emphasis on player playstyles.
+If I were to give this genre a name it'd be a loot&shoot.
+
+## Feels ##
+Snappy. Tight control. High mind-meld.
+Edge of your seat. How did we survive that?
+Exploration of different playstyles.
 
 ## High Level Mechanics ##
 Hordes of diverse enemies.
@@ -10,16 +17,17 @@ Arena.
 High Skillcap.
 
 ## Reference Games ##
-[Diablo 3](http://us.battle.net/d3/en/)
-[Alienation](http://www.housemarque.com/games/alienation/)
-[Geometry Wars](http://www.sierra.com/geometrywars)
-[Dawn of War II: The Last Stand](https://www.dawnofwar.com/)
+[Diablo 3](http://us.battle.net/d3/en/)-For the RPG, Gear, Playstyles
 
-## Enemy Types ##
+[Alienation](http://www.housemarque.com/games/alienation/) - Twin Stick, Abilities, Itemizations
 
-## Abilities ##
-*Abilities* will not be categorized into utility, offense, or defense.
-Instead, *Abilities* will have Effects. Effects change stats 
+[Geometry Wars](http://www.sierra.com/geometrywars) - Clasic Arcady Twinstick
+
+[Dawn of War II: The Last Stand](https://www.dawnofwar.com/) - Abilities and Itemization
+
+[Helldivers](http://arrowheadgamestudios.com/games/helldivers/) - Twinstick, Itemization
+
+[Assault Android Cactus](http://www.assaultandroidcactus.com/p/landing.html) - Twinstick with classes
 
 ## Characters ##
 Characters have Attributes, and Gear.
@@ -37,16 +45,3 @@ Endurance
 Resurections
 Vampircism
 Skill (increses multipliers more quickly).
-
-
-No passive dodging. This isn't an RNG game.
-No crits. This isn't an RNG game.
-
-
-
-
-## Core Challenge ##
-Player maximizes their ability to stay alive, and do damage.
-
-
-
