@@ -11,6 +11,10 @@ Exploration of different playstyles.
 Over all the player should feel in control. If they ever fail they should be able to think about how they could have handled the situation differentely to have a better outcome. I had this feeling whenever I died in battle ground on my mage in World of Warcraft.
 Players focus should be on the situation and how to manage it, not extraneous information.
 
+## Rules
+Any change of state needs to be accompanied by visuals, souds, maybe feedback, aka lots of differentiated signifiers.
+This is sort of a polish step, but if we can't think of good signifiers, we should probably boot it.
+
 ## High Level Mechanics ##
 Hordes of diverse enemies.
 Diverse playstyles.
@@ -33,9 +37,9 @@ This is a highly polished, simple and pure twin stick shooter. It has a great en
 
 [Assault Android Cactus](http://www.assaultandroidcactus.com/p/landing.html) - Twinstick with classes
 
-[World of Warcraft-Frostmage] - Great toolkit. Good balance of short and long cooldown. Could control and influence the way things played out through CC, and slows.
+[World of Warcraft-Frostmage](https://worldofwarcraft.com/en-us/game/talent-calculator#mage/frost) - Great toolkit. Good balance of short and long cooldown. Could control and influence the way things played out through CC, and slows.
 
-[World of Warcraft-AfflictionWarlock]- Great example of managing resources. You could speed level and continuously pull by creatively using abilities that would exchange health and mana and vice versa. For some abilities you could'nt move.
+[World of Warcraft-AfflictionWarlock](https://worldofwarcraft.com/en-us/game/talent-calculator#warlock/affliction)- Great example of managing resources. You could speed level and continuously pull by creatively using abilities that would exchange health and mana and vice versa. For some abilities you could'nt move.
 
 [Dead Cells](http://dead-cells.com) - For ideas regarding enemy variation, attacks, and stuff like that.
 
